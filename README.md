@@ -1,0 +1,1 @@
+# trend-hive-store
